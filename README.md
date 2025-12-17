@@ -119,9 +119,8 @@ df.fillna(0)     # Fill missing values
 /Pandas-Car-Projects
 │
 ├── data/               # CSV / Excel datasets
-├── notebooks/
-│   ├── PandasPart1.ipynb  # Basics & DataFrames
-│   └── PandasPart2.ipynb  # Cleaning & Car Data
+│ PandasPart1.ipynb  # Basics & DataFrames
+│ PandasPart2.ipynb  # Cleaning & Car Data
 ├── README.md           # This file
 └── LICENSE             # MIT License
 ```
